@@ -54,12 +54,19 @@ Here are some ideas to get you started:
 <span><b><center>Aries</center></b></span> 
 <img height=60px src="https://repository-images.githubusercontent.com/185645741/1d8bf280-cd1c-11e9-9f22-0fa71c365f71"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>Hyperledger Fabric</center></b></span> 
 <img height=60px src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb"> 
 </td>
+
+
+
+
+
+</tr>
+
+
 
 
 
