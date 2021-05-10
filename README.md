@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Saki Osive's's GitHub stats](https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true&theme=radical)
+![Saki Osive's's GitHub stats](https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true&theme=radical)(https://github.com/saki-osive/github-readme-stats)
 
 
 
