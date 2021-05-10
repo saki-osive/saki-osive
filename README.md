@@ -15,12 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Here are the things we work on 👋
+### Here are the things I work on 👋
 
-📫 Our Profile [TeamOsive](https://osive.tk/team/)
+📫 Profile [TeamOsive](https://osive.tk/team/)
 
 
-## Tech Stack :computer:
+## Blockchain :computer:
+
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Accord</center></b></span> 
+<img height=60px src="https://avatars.githubusercontent.com/u/29445438?s=200&v=4"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+</tr>
+
+
+
+
+
+
 
 <br>
 <table>
@@ -112,7 +139,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/eddiejaoude?tab=followers">
     <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="http://twitteOurr.com/eddiejaoude">
     <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
