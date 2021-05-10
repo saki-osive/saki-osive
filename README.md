@@ -76,8 +76,56 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>Neo Blockchain</center></b></span> 
-<img height=60px src="data:image/png;base64,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"> 
+<img height=60px src="https://logowik.com/content/uploads/images/neo-coin-neo4836.jpg"> 
 </td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Open Chain</center></b></span> 
+<img height=60px src="https://www.openchainproject.org/wp-content/uploads/sites/15/2017/04/OpenChain_Logo_Pantone.png"> 
+</td>
+ 
+ 
+<td align="center" width="20%">
+<span><b><center>Polkadot</center></b></span> 
+<img height=60px src="https://polkadot.network/content/images/2020/06/Polkadot_OG.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>R3 Corda</center></b></span> 
+<img height=60px src="https://financialit.net/sites/default/files/build-cordapp-on-r3-corda-open-source-blockchain-solutions.jpg"> 
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Solidity</center></b></span> 
+<img height=60px src="https://www.openchainproject.org/wp-content/uploads/sites/15/2017/04/OpenChain_Logo_Pantone.png"> 
+</td>
+ 
+ 
+<td align="center" width="20%">
+<span><b><center>Polkadot</center></b></span> 
+<img height=60px src="https://polkadot.network/content/images/2020/06/Polkadot_OG.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>R3 Corda</center></b></span> 
+<img height=60px src="https://financialit.net/sites/default/files/build-cordapp-on-r3-corda-open-source-blockchain-solutions.jpg"> 
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Solidity</center></b></span> 
+<img height=60px src="https://www.openchainproject.org/wp-content/uploads/sites/15/2017/04/OpenChain_Logo_Pantone.png"> 
+</td>
+ 
+ 
+
 </tr>
 
 
