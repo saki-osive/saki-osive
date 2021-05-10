@@ -127,17 +127,12 @@ Here are some ideas to get you started:
 
 ---
 
-[![Team Osive's GitHub stats](https://github-readme-stats.vercel.app/api?username=saki-osive)](https://github.com/saki-osive/github-readme-stats)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saki-osive&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saki-osive" />
-</p>
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
