@@ -102,31 +102,14 @@ Here are some ideas to get you started:
 <tr>
 <td align="center" width="20%">
 <span><b><center>Solidity</center></b></span> 
-<img height=60px src="https://www.openchainproject.org/wp-content/uploads/sites/15/2017/04/OpenChain_Logo_Pantone.png"> 
-</td>
- 
- 
-<td align="center" width="20%">
-<span><b><center>Polkadot</center></b></span> 
-<img height=60px src="https://polkadot.network/content/images/2020/06/Polkadot_OG.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>R3 Corda</center></b></span> 
-<img height=60px src="https://financialit.net/sites/default/files/build-cordapp-on-r3-corda-open-source-blockchain-solutions.jpg"> 
-</td>
-</tr>
-
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Solidity</center></b></span> 
-<img height=60px src="https://www.openchainproject.org/wp-content/uploads/sites/15/2017/04/OpenChain_Logo_Pantone.png"> 
+<img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
 </td>
  
  
 
 </tr>
+
+
 
 
 
