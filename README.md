@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📫 Profile [TeamOsive](https://osive.tk/team/)
 
 
-## Blockchain :computer:
+## Blockchain :chains:
 
 
 <br>
@@ -105,14 +105,38 @@ Here are some ideas to get you started:
 <img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
 </td>
  
- 
 
 </tr>
 
+</tbody>
+</table>
 
 
 
 
+
+## Cloud :cloud:
+
+
+<br>
+<table>
+<tbody>
+<tr>
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>GCP</center></b></span> 
+<img height=60px src="https://miro.medium.com/max/12516/1*CMz4r3-pEFp3Po6oHv-JxQ.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Openstack</center></b></span> 
+<img height=60px src="https://brandslogos.com/wp-content/uploads/images/large/openstack-logo-1.png"> 
+</td>
+</tr>
 
 </tbody>
 </table>
@@ -122,27 +146,146 @@ Here are some ideas to get you started:
 
 
 
+## DevOps/Infra :desktop_computer:
+
+
+<br>
+<table>
+<tbody>
+<tr>
+<td align="center" width="20%">
+<span><b><center>Cassandra</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Elastic - ELK, ELF</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
+</td>
 
 
 
 
+<tr>
+ <td align="center" width="20%">
+<span><b><center>Grafana</center></b></span> 
+<img height=65px src="https://i.pinimg.com/originals/ed/52/04/ed52045809ad01c33d1e1859531cb264.jpg"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=60px src="https://www.jenkins.io/images/logo-title-opengraph.png"> 
+</td>
 
 
 
 
+<tr>
+ <td align="center" width="20%">
+<span><b><center>Hadoop</center></b></span> 
+<img height=60px src="https://miro.medium.com/max/2760/1*kPKoXmHBDmGthbah-0549A.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Janus Graph</center></b></span> 
+<img height=60px src="https://janusgraph.org/img/janusgraph.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Maria DB</center></b></span> 
+<img height=65px src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png"> 
+</td>
+ 
 
 
 
 
+<tr>
+ <td align="center" width="20%">
+<span><b><center>Minio</center></b></span> 
+<img height=65px src="https://1.bp.blogspot.com/-_Cw3b2Fslto/Xd5ltuPk06I/AAAAAAAAKOM/TOFO7AEq0a4LJ0mu_YXuNEEdm0UoAaMCwCLcBGAsYHQ/s400/minio%2Blogo.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=60px src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>
+ 
 
 
 
+<tr>
+ <td align="center" width="20%">
+<span><b><center>Neo4J</center></b></span> 
+<img height=65px src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Prometheus</center></b></span> 
+<img height=60px src="https://prabhatsharma.in/images/blog/prometheus.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>
+
+<tr>
+ 
+<td align="center" width="20%">
+<span><b><center>PostgreSQL</center></b></span> 
+<img height=65px src="https://devinstechblog.com/wp-content/uploads/2016/08/postgresql-logo.png"> 
+</td>
 
 
+<td align="center" width="20%">
+<span><b><center>Redis</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Sonatype Nexus</center></b></span> 
+<img height=65px src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png"> 
+</td>
 
 
+<tr>
+ 
+<td align="center" width="20%">
+<span><b><center>Traefik</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/docker-library/docs/a6cc2c5f4bc6658168f2a0abbb0307acaefff80e/traefik/logo.png"> 
+</td>
 
 
+<td align="center" width="20%">
+<span><b><center>TrueNAS</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Vagrant</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
+</td>
+
+
+</tbody>
+</table>
 
 
 
@@ -174,10 +317,7 @@ Here are some ideas to get you started:
 <img height=65px src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
+
 
 <td align="center" width="20%">
 <span><b><center>Jenkins</center></b></span> 
@@ -186,15 +326,8 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
 
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
+
 
 
 
