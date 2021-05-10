@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://www.coveros.com/wp-content/uploads/2014/03/java-logo.jpg"> 
 </td>
 </tr>
 
