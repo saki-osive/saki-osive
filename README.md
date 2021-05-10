@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>Kafka</center></b></span> 
+<img height=60px src="https://developers.redhat.com/blog/wp-content/uploads/2018/05/kafka-logo-tall.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>SpringBoot</center></b></span> 
+<img height=65px src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><b><center>Java</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 </tr>
