@@ -33,15 +33,60 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Cardano</center></b></span> 
+<img height=60px src="https://www.benzinga.com/files/images/story/2012/cardano.jpeg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>Ethereum</center></b></span> 
+<img height=60px src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/03/ethereum-1.jpeg"> 
 </td>
 </tr>
+
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Ganache</center></b></span> 
+<img height=60px src="https://next-stack.github.io/docs/ganache/images/ganache-logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Hyperledger Fabric</center></b></span> 
+<img height=60px src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Ethereum</center></b></span> 
+<img height=60px src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/03/ethereum-1.jpeg"> 
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
