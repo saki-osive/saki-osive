@@ -237,19 +237,24 @@ Here are some ideas to get you started:
 </td>
  
 <td align="center" width="20%">
+<span><b><center>pfSense</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png"> 
+</td>
+
+ 
+<td align="center" width="20%">
 <span><b><center>Prometheus</center></b></span> 
 <img height=60px src="https://prabhatsharma.in/images/blog/prometheus.png"> 
 </td>
- 
+</tr>
+
+
+
+<tr>
 <td align="center" width="20%">
 <span><b><center>PostgreSQL</center></b></span> 
 <img height=65px src="https://devinstechblog.com/wp-content/uploads/2016/08/postgresql-logo.png"> 
 </td>
-</tr>
-<tr>
- 
-
-
 
 <td align="center" width="20%">
 <span><b><center>Redis</center></b></span> 
@@ -261,15 +266,15 @@ Here are some ideas to get you started:
 <img height=65px src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Traefik</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/docker-library/docs/a6cc2c5f4bc6658168f2a0abbb0307acaefff80e/traefik/logo.png"> 
-</td>
+
 </tr>
 
 <tr>
  
-
+<td align="center" width="20%">
+<span><b><center>Traefik</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/docker-library/docs/a6cc2c5f4bc6658168f2a0abbb0307acaefff80e/traefik/logo.png"> 
+</td>
 
 <td align="center" width="20%">
 <span><b><center>Travis CI</center></b></span> 
@@ -287,6 +292,15 @@ Here are some ideas to get you started:
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
 </td>
 </tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Vagrant</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
+</td>
+</tr>
+
+
 
 </tbody>
 </table>
