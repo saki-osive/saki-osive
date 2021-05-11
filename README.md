@@ -125,7 +125,6 @@ Here are some ideas to get you started:
 ## Cloud :cloud:
 
 
-<br>
 <table>
 <tbody>
 <tr>
