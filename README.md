@@ -389,9 +389,7 @@ Here are some ideas to get you started:
 
 <p align="center">Team Osive </a> so we can geek out on Videos and Live streams 🎥</p>
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟 </a></b></p>
 
-<p align="center"> Technologies we have worked on are Big Data, Infra, Programming Languages etc etc etc </p>
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
