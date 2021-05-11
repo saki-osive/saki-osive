@@ -302,7 +302,7 @@ Here are some ideas to get you started:
 </td>
   
 <td align="center" width="20%">
-<span><b><center>Vagrant</center></b></span> 
+<span><b><center>Zookeeper</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
 </td>
 
