@@ -287,10 +287,6 @@ Here are some ideas to get you started:
 <img height=65px src="https://www.pressrelease.com/files/29/f5/fc9b00a0398c614c80eb0267cb7b.jpg"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Vagrant</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
-</td>
 </tr>
 
 <tr>
