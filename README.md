@@ -301,14 +301,16 @@ Here are some ideas to get you started:
 <span><b><center>Vagrant</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
 </td>
-</tr>
-
-<tr>
+  
 <td align="center" width="20%">
 <span><b><center>Vagrant</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
 </td>
+
 </tr>
+
+
+
 
 
 
