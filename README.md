@@ -105,16 +105,6 @@ Here are some ideas to get you started:
 </td>
 </tr>
 
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Solidity</center></b></span> 
-<img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
-</td>
- 
-
-</tr>
-
 </tbody>
 </table>
 
@@ -348,22 +338,26 @@ Here are some ideas to get you started:
 <span><b><center>Rust</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"> 
 </td>
+  
+ <td align="center" width="20%">
+<span><b><center>Rocket</center></b></span> 
+<img height=60px src="https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Rocket-300x187.png"> 
+</td>  
  
 <td align="center" width="20%">
 <span><b><center>Read The Docs</center></b></span> 
 <img height=60px src="https://piepdxblog.files.wordpress.com/2014/08/readthedocsbranding.jpg"> 
 </td>
- 
+
+</tr>
+
+<tr>
+
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
 <img height=60px src="https://i.dlpng.com/static/png/6976303_preview.png"> 
 </td>
 
-</tr>
-
-</tr>
-
-<tr>
 <td align="center" width="20%">
 <span><b><center>Vaadin</center></b></span> 
 <img height=60px src="https://vaadin.com/images/trademark/PNG/VaadinLogo_RGB_1000x310.png"> 
@@ -374,20 +368,25 @@ Here are some ideas to get you started:
 <img height=60px src="https://miro.medium.com/max/855/1*Kd7mrwqmrzyAudv8tS-OdQ.png"> 
 </td>
 
+</tr>
+
+<tr>
+  
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
 <img height=60px src="https://cms-assets.tutsplus.com/uploads/users/413/posts/31839/preview_image/php-wide-retina-preview.png"> 
 </td>
-
-</tr>
-
-<tr>
  
  <td align="center" width="20%">
 <span><b><center>Laravel</center></b></span> 
 <img height=60px src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"> 
 </td>
- 
+
+<td align="center" width="20%">
+<span><b><center>Solidity</center></b></span> 
+<img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
+</td>
+
 </tr>
 
 
