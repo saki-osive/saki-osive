@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Here are the things I work on 👋
 
-📫 Profile [TeamOsive](https://osive.tk/team/)
+📫 Profile [Saki Osive](https://jarvis-dev.github.io/portfolio/)
 
 
 ## Blockchain :chains:
@@ -374,6 +374,20 @@ Here are some ideas to get you started:
 <img height=60px src="https://miro.medium.com/max/855/1*Kd7mrwqmrzyAudv8tS-OdQ.png"> 
 </td>
 
+<td align="center" width="20%">
+<span><b><center>PHP</center></b></span> 
+<img height=60px src="https://cms-assets.tutsplus.com/uploads/users/413/posts/31839/preview_image/php-wide-retina-preview.png"> 
+</td>
+
+</tr>
+
+<tr>
+ 
+ <td align="center" width="20%">
+<span><b><center>Laravel</center></b></span> 
+<img height=60px src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"> 
+</td>
+ 
 </tr>
 
 
@@ -387,33 +401,10 @@ Here are some ideas to get you started:
 
 ![Team Image](https://assets-global.website-files.com/5a690960b80baa0001e05b0f/5c9cc3d253b93c326aced801_Positive-Team-Culture%20.png)
 
-<p align="center">Team Osive </a> so we can geek out on Videos and Live streams 🎥</p>
+<p align="center">Team Osive - A group of students who aim to take the top of the pyramid knowledge to the bottom of the pyramid students</p>
 
 
-
-<p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitteOurr.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-</p>
-
-![](https://cdn.dribbble.com/users/24711/screenshots/5371151/hero-motio.gif)
-
----
-
-
-
-
-<h4 align="center">Testimonials</h4>
+<h4 align="center">My Projects</h4>
 <h1 align="center">❝</h1>
 
 <table>
@@ -422,29 +413,25 @@ Here are some ideas to get you started:
     <th>Description</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Project 1</a></td>
-    <td>Here comes the text</td>
+    <td>Enabling trust in Supply Chain</td>
+    <td>Tracing Spurious Drugs and Ensuring brand safety using Hyperledger Fabric</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Project 2</a></td>
-    <td>Here comes the text</td>
+    <td>TenderBullet</td>
+    <td>Blockchain Powered Procurement Platform</td>
   </tr>
   <tr>
-    <td>Project 3</a></td>
-    <td>With or without link your choice 🌟</td>
+    <td>Aliyda</td>
+    <td>Blockchain platform to help rape victims.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Project4</a></td>
-    <td>Table sorted </td>
+    <td>Lawgicals</td>
+    <td>Blockchain for evidence management and legal activities</td>
+  </tr>
+    <tr>
+    <td>SODA Foundation</a></td>
+    <td>Worked on Documentation for Soda Foundation</td>
   </tr>
 </table>
 
 <h1 align="center">❞</h1>
-
-<!--START_SECTION:activity-->
-1. 💪 Adding points 
-2. ❗️ 
-3. ❗️ 
-4. ❗️ 
-5. 🗣 
-<!--END_SECTION:activity-->
