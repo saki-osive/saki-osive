@@ -407,7 +407,7 @@ Here are some ideas to get you started:
 <h4 align="center">My Projects</h4>
 <h1 align="center">❝</h1>
 
-<table>
+<table align="center">
   <tr>
     <th>Projects</th>
     <th>Description</th>
@@ -432,6 +432,8 @@ Here are some ideas to get you started:
     <td>SODA Foundation</a></td>
     <td>Worked on Documentation for Soda Foundation</td>
   </tr>
+  
 </table>
+<h4 align="center">... and many more</h4>
 
 <h1 align="center">❞</h1>
