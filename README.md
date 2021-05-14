@@ -303,7 +303,13 @@ Here are some ideas to get you started:
 
 </tr>
 
-
+<tr>
+<td align="center" width="20%">
+<span><b><center>MySQL</center></b></span> 
+<img height=65px src="https://itsilesia.com/wp-content/uploads/2018/11/mysql-logo.jpg"> 
+</td>
+  
+</tr>
 
 
 
