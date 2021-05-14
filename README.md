@@ -161,8 +161,8 @@ Here are some ideas to get you started:
 
 
 <td align="center" width="20%">
-<span><b><center>Elastic - ELK, ELF</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
+<span><b><center>Kubernetes</center></b></span> 
+<img height=65px src="https://softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png"> 
 </td>
 </tr>
 
@@ -294,6 +294,11 @@ Here are some ideas to get you started:
 <td align="center" width="20%">
 <span><b><center>Zookeeper</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Elastic - ELK, ELF</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
 </td>
 
 </tr>
