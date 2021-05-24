@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
   
-    <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Elastic - ELK, ELF</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
 </td>
@@ -194,7 +194,7 @@ Here are some ideas to get you started:
 
 
 <tr>
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Hadoop</center></b></span> 
 <img height=60px src="https://miro.medium.com/max/2760/1*kPKoXmHBDmGthbah-0549A.png"> 
 </td>
@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 
 
 <tr>
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Maria DB</center></b></span> 
 <img height=65px src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png"> 
 </td>
@@ -240,17 +240,17 @@ Here are some ideas to get you started:
 
 <tr>
   
-    <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>MySQL</center></b></span> 
 <img height=65px src="https://itsilesia.com/wp-content/uploads/2018/11/mysql-logo.jpg"> 
 </td>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
 <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
   
- <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Neo4J</center></b></span> 
 <img height=65px src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png"> 
 </td>
@@ -265,12 +265,12 @@ Here are some ideas to get you started:
 
 <tr>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>pfSense</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png"> 
 </td>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Prometheus</center></b></span> 
 <img height=60px src="https://prabhatsharma.in/images/blog/prometheus.png"> 
 </td>
@@ -287,13 +287,13 @@ Here are some ideas to get you started:
 
 <tr>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Redis</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"> 
 </td>
 
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Sonatype Nexus</center></b></span> 
 <img height=65px src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png"> 
 </td>
@@ -314,12 +314,12 @@ Here are some ideas to get you started:
 
 <tr>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Travis CI</center></b></span> 
 <img height=65px src="https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png"> 
 </td>
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>TrueNAS</center></b></span> 
 <img height=65px src="https://www.pressrelease.com/files/29/f5/fc9b00a0398c614c80eb0267cb7b.jpg"> 
 </td>
@@ -338,7 +338,7 @@ Here are some ideas to get you started:
 <tr>
 
   
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Zookeeper</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
 </td>
