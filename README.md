@@ -158,10 +158,10 @@ Here are some ideas to get you started:
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
-
-<td align="center" width="20%">
-<span><b><center>Grafana</center></b></span> 
-<img height=65px src="https://i.pinimg.com/originals/ed/52/04/ed52045809ad01c33d1e1859531cb264.jpg"> 
+  
+    <td align="center" width="20%">
+<span><b><center>Elastic - ELK, ELF</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
 </td>
 
 </tr>
@@ -169,6 +169,11 @@ Here are some ideas to get you started:
 
 
 <tr>
+
+<td align="center" width="20%">
+<span><b><center>Grafana</center></b></span> 
+<img height=65px src="https://i.pinimg.com/originals/ed/52/04/ed52045809ad01c33d1e1859531cb264.jpg"> 
+</td>
 
  
 <td align="center" width="20%">
@@ -182,17 +187,17 @@ Here are some ideas to get you started:
 </td>
   
   
-  <td align="center" width="20%">
-<span><b><center>Hadoop</center></b></span> 
-<img height=60px src="https://miro.medium.com/max/2760/1*kPKoXmHBDmGthbah-0549A.png"> 
-</td>
+
   
 </tr>
 
 
 
 <tr>
-
+  <td align="center" width="20%">
+<span><b><center>Hadoop</center></b></span> 
+<img height=60px src="https://miro.medium.com/max/2760/1*kPKoXmHBDmGthbah-0549A.png"> 
+</td>
  
 <td align="center" width="20%">
 <span><b><center>Janus Graph</center></b></span> 
@@ -204,16 +209,18 @@ Here are some ideas to get you started:
 <img height=65px src="https://softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png"> 
 </td>
  
-<td align="center" width="20%">
-<span><b><center>Maria DB</center></b></span> 
-<img height=65px src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png"> 
-</td>
+
 </tr>
 
 
 
 
 <tr>
+  <td align="center" width="20%">
+<span><b><center>Maria DB</center></b></span> 
+<img height=65px src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png"> 
+</td>
+  
 <td align="center" width="20%">
 <span><b><center>Minio</center></b></span> 
 <img height=65px src="https://1.bp.blogspot.com/-_Cw3b2Fslto/Xd5ltuPk06I/AAAAAAAAKOM/TOFO7AEq0a4LJ0mu_YXuNEEdm0UoAaMCwCLcBGAsYHQ/s400/minio%2Blogo.png"> 
@@ -224,10 +231,7 @@ Here are some ideas to get you started:
 <img height=60px src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"> 
 </td>
   
-  <td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://itsilesia.com/wp-content/uploads/2018/11/mysql-logo.jpg"> 
-</td>
+
  
 
 </tr>
@@ -235,6 +239,11 @@ Here are some ideas to get you started:
 
 
 <tr>
+  
+    <td align="center" width="20%">
+<span><b><center>MySQL</center></b></span> 
+<img height=65px src="https://itsilesia.com/wp-content/uploads/2018/11/mysql-logo.jpg"> 
+</td>
   
   <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
@@ -246,10 +255,7 @@ Here are some ideas to get you started:
 <img height=65px src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png"> 
 </td>
  
-<td align="center" width="20%">
-<span><b><center>pfSense</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png"> 
-</td>
+
 
  
 
@@ -258,6 +264,12 @@ Here are some ideas to get you started:
 
 
 <tr>
+  
+  <td align="center" width="20%">
+<span><b><center>pfSense</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png"> 
+</td>
+  
   <td align="center" width="20%">
 <span><b><center>Prometheus</center></b></span> 
 <img height=60px src="https://prabhatsharma.in/images/blog/prometheus.png"> 
@@ -268,16 +280,18 @@ Here are some ideas to get you started:
 <img height=65px src="https://devinstechblog.com/wp-content/uploads/2016/08/postgresql-logo.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Redis</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"> 
-</td>
 
 
 
 </tr>
 
 <tr>
+  
+  <td align="center" width="20%">
+<span><b><center>Redis</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"> 
+</td>
+
   
   <td align="center" width="20%">
 <span><b><center>Sonatype Nexus</center></b></span> 
@@ -291,10 +305,7 @@ Here are some ideas to get you started:
 <img height=65px src="https://raw.githubusercontent.com/docker-library/docs/a6cc2c5f4bc6658168f2a0abbb0307acaefff80e/traefik/logo.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Travis CI</center></b></span> 
-<img height=65px src="https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png"> 
-</td>
+
 
 
 
@@ -302,6 +313,11 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
+  
+  <td align="center" width="20%">
+<span><b><center>Travis CI</center></b></span> 
+<img height=65px src="https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png"> 
+</td>
   
   <td align="center" width="20%">
 <span><b><center>TrueNAS</center></b></span> 
@@ -313,10 +329,7 @@ Here are some ideas to get you started:
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"> 
 </td>
   
-<td align="center" width="20%">
-<span><b><center>Zookeeper</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
-</td>
+
 
 
 
@@ -326,9 +339,10 @@ Here are some ideas to get you started:
 
   
   <td align="center" width="20%">
-<span><b><center>Elastic - ELK, ELF</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png"> 
+<span><b><center>Zookeeper</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg"> 
 </td>
+
   
 </tr>
 
