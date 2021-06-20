@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saki-osive&theme=tokyonight" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=saki-osive&color=blue" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saki-osive&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
-![](https://komarev.com/ghpvc/?username=saki-osive&color=blue)
 
 
 ### Here are the things I work on 👋
