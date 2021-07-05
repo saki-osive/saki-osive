@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saki-osive&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saki-osive&theme=tokyonight" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=saki-osive&color=blue" />
 </p>
 
 
@@ -444,6 +443,27 @@ Here are some ideas to get you started:
 </table>
 
 
+## Documentation :page_with_curl:
+
+* Currently, newcomers to open-source are victims of poor and improper documentation
+* I'm a highly passionate and motivated person to bring reform to open-source for new comers
+* My idea is to follow document as code approach
+* I have contributed to numerous open-source organizations
+* Hyperledger Fabric team gave my team the title "Documentation Experts"
+
+
+Contributed to code/documentation for the following projects:
+
+* Hyperledger Fabric
+* Hyperledger Grid
+* Fabric Private Chaincode
+* Polkadot
+* Rust Book
+* Rust Reference
+* Awesome Rust
+* Automerge rs
+* Academy Software Foundation
+* SODA Foundation
 
 
 
