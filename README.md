@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Here are the things I work on 👋
 
-📫 Profile [Saki Osive](https://jarvis-dev.github.io/portfolio/)
+📫 My Profile [Saki Osive](https://jarvis-dev.github.io/portfolio/)
 
 
 ## Blockchain :chains:
