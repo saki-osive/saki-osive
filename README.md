@@ -498,7 +498,7 @@ Contributed to code/documentation for the following projects:
   </tr>
     <tr>
     <td>SODA Foundation</a></td>
-    <td>Worked on Documentation for Soda Foundation</td>
+    <td>Worked on documentation for Soda Foundation</td>
   </tr>
   
 </table>
