@@ -416,8 +416,8 @@ Here are some ideas to get you started:
 <img height=60px src="https://miro.medium.com/max/855/1*Kd7mrwqmrzyAudv8tS-OdQ.png"> 
 </td>
 
-<!-- </tr>
-
+ </tr>
+<!--
 <tr>
   
 <td align="center" width="20%">
@@ -430,6 +430,8 @@ Here are some ideas to get you started:
 <img height=60px src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"> 
 </td> -->
 
+<tr>  
+  
 <td align="center" width="20%">
 <span><b><center>Solidity</center></b></span> 
 <img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
